@@ -26,5 +26,8 @@ def get_image_feature(s,k):
     plt.imshow(temp_a)
     plt.show()
 
-get_image_feature(s,5)
-get_image_feature(s,50)
+
+
+get_image_feature(s,4)
+get_image_feature(s,40)
+get_image_feature(s,200)
